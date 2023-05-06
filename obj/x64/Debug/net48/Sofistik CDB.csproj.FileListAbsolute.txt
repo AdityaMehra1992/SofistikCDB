@@ -1,0 +1,65 @@
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\bin\x64\Debug\net48\Eto.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\bin\x64\Debug\net48\Rhino.UI.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\bin\x64\Debug\net48\RhinoCommon.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfo.cs
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CopyComplete
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik_CDB.Properties.Resources.resources
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\bin\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\bin\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\bin\x64\Debug\net48\Eto.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\bin\x64\Debug\net48\Rhino.UI.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\bin\x64\Debug\net48\RhinoCommon.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik_CDB.Properties.Resources.resources
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfo.cs
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.csproj.CopyComplete
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB - Copy\obj\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\bin\x64\Debug\net48\Eto.dll
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\bin\x64\Debug\net48\Rhino.UI.dll
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\bin\x64\Debug\net48\RhinoCommon.dll
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik_CDB.Properties.Resources.resources
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfo.cs
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CopyComplete
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Backup\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\Sofistik CDB.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\Eto.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\Rhino.UI.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\RhinoCommon.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\GHCustomControls.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\WPFNumericUpDown.dll
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\GHCustomControls.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\GHCustomControls.xml
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\bin\x64\Debug\net48\WPFNumericUpDown.pdb
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik_CDB.Properties.Resources.resources
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.AssemblyInfo.cs
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.csproj.CopyComplete
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.gha
+C:\Users\User\Desktop\SofistikCDBreader\Sofistik CDB\Sofistik CDB\obj\x64\Debug\net48\Sofistik CDB.pdb

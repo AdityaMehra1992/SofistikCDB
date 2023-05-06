@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <Version>1.0</Version>
+    <Title>Sofistik CDB</Title>
+    <Description>Description of Sofistik CDB</Description>
+    <TargetExt>.gha</TargetExt>
+    <Platforms>AnyCPU;x64</Platforms>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  
+  <PropertyGroup Condition="$(Configuration) == 'Debug' AND $([MSBuild]::IsOSPlatform(Windows))">
+    <StartProgram>C:\Program Files\Rhino 7\System\Rhino.exe</StartProgram>
+    <StartArguments></StartArguments>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Grasshopper" Version="7.3.21053.23031" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="GHCustomControls">
+      <HintPath>E:\Grasshopper\for Sofistik\GHCustomControls-main\bin\x64\7 Debug\GHCustomControls.dll</HintPath>
+    </Reference>
+    <Reference Include="WPFNumericUpDown">
+      <HintPath>E:\Grasshopper\for Sofistik\GHCustomControls-main\bin\x64\7 Debug\WPFNumericUpDown.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="Copy &quot;$(TargetPath)&quot; &quot;C:\Users\User\AppData\Roaming\Grasshopper\Libraries\SofistikCDB\SofistikCDBAccess.gha&quot;" />
+  </Target>
+
+</Project>
